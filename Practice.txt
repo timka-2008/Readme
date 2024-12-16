@@ -1,0 +1,9 @@
+GitHub on veebiplatvorm ja hostimisteenus, mis on mõeldud tarkvaraarenduse jaoks ning põhineb versioonihaldussüsteemil Git. GitHub võimaldab arendajatel jälgida muudatusi koodis, teha parandusi, pakkuda uusi lahendusi ja teha meeskondlikku koostööd sõltumata nende asukohast.
+
+Kes kasutavad GitHubi:
+
+Programmeerijad ja arendajad – projektidega töötamiseks, koodi salvestamiseks ja versioonihalduse korraldamiseks.
+Arendajate meeskonnad – keeruliste projektide ühiskasutuseks ja organiseerimiseks.
+Õpilased ja alustavad programmeerijad – koodi õppimiseks, portfoolio loomiseks ja osalemiseks avatud lähtekoodiga projektides.
+Ettevõtted ja organisatsioonid – kommertstarkvara ja sisemiste lahenduste arendamiseks.
+Avatud lähtekoodiga kogukond – tasuta ja kõigile kättesaadavate tarkvaratoodete loomiseks ja toetamiseks.

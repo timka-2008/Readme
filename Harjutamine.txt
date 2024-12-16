@@ -1,0 +1,1 @@
+GitHub-i saab kasutada programmikoodi talletamiseks, haldamiseks ja ühisteks arendusprojektideks ning versioonihalduse süsteemide rakendamiseks. Tulevikus on see kasulik osalemiseks avatud lähtekoodiga projektides, arendaja isikliku portfoolio haldamiseks ja töövoogude automatiseerimiseks CI/CD abil.
